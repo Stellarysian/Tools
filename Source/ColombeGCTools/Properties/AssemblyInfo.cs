@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ColombeGCTools")]
-[assembly: AssemblyCopyright("Copyright © Stellarysian 2022~2025")]
+[assembly: AssemblyCopyright("Copyright © Stellarysian 2022~2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -31,5 +31,5 @@ using System.Runtime.InteropServices;
 //可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值
 //通过使用 "*"，如下所示:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.18.2")]
-[assembly: AssemblyFileVersion("1.18.2")]
+[assembly: AssemblyVersion("6.3.0")]
+[assembly: AssemblyFileVersion("6.3.0")]
